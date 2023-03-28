@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'SkillsBuildSearcherHallam'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_444A7A1AD959461583D9999D54AE917A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_528A1CE564264B73A07CAACEB1BDD4E2 }}
           package: .
